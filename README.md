@@ -1,5 +1,7 @@
 # Tornado
 
+ENG: In-code comments are in Polish as it was prepared for the computer graphics classes for Polish lecturers that demanded it. So I wrote README in Polish as well.
+
 Jeden z moich pierwszych projektów w życiu. Projekt przygotowany w ramach zajęć z Grafiki Komputerowej na studiach na wydziale EITI PW w roku 2015/2016.
 
 Projekt zawiera animację wiru powietrznego, który porusza liściami.
