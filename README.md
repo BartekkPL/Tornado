@@ -14,4 +14,4 @@ Program jest bardzo prosty, dostępne sterowanie to:
 
 #### Program zrealizowany z wykorzystaniem biblioteki OpenGL.
 
-#### Do jego uruchomienia potrzebny jest Visual Studio. Ja uruchamiałem ten projekt ostatnim razem z użyciem VS 2019. 
+#### Do jego uruchomienia potrzebny jest Visual Studio. Ja uruchamiałem ten projekt ostatnim razem z użyciem VS 2019. Dodatkowo musisz skopiować/przenieść `freeglut.dll` z katalogu `deps` do katalogu `Debug/Release` (katalogu gdzie generuje się Twoja binarka).
